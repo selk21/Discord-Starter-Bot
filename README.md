@@ -22,7 +22,7 @@ A simple, self-hosted Discord bot with limited commands built using the Node.js 
 
 `https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot%20applications.commands`
 
-In order to obtain this link, head to the My Apps page under the "Applications" section, click on your bot application, and open the OAuth2 page. Under OAuth2 go to URL Generator and under “scopes” click on “bot” and “applications.command”. After clicking those two, go under bot permissions and click on “Administrator”. Copy the generated URL at the bottom of the page and paste and search that URL onto your web browser.
+In order to obtain this link, head to the [My Apps](https://discord.com/developers/applications) page under the "Applications" section, click on your bot application, and open the "OAuth2" page. Under "OAuth2" go to "URL Generator" and under “scopes” click on `bot` and `applications.command`. After clicking those two, go under "bot permissions" and click on `Administrator`. Copy the generated URL at the bottom of the page and paste and search that URL onto your web browser.
 
 ![Screenshot 2021-11-23 193608_LI](https://user-images.githubusercontent.com/85317561/143383635-abe55d28-c341-4eb6-bace-08ce68258224.jpg)
 

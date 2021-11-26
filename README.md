@@ -48,6 +48,12 @@ Congratulations, your bot should be up and running!
 
 If you wish to contribute to the project, please feel free to fork the repository and submit a pull request.
 
-When making commands for the application, please adhere to the coding style from the previous commands.
+## Coding Standards
+
+- When making commands for the application, please adhere to the coding style from the previous commands.
+
+- For example, please use single quotes `''` instead of double quotes `""` whenever it's necessary.
+
+- Comment the name of the command and what it does above the code of the command.
 
 

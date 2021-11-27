@@ -48,6 +48,8 @@ Congratulations, your bot should be up and running!
 
 If you wish to contribute to the project, please feel free to fork the repository and submit a pull request.
 
+You can reference [discord.js's](https://discord.js.org/#/docs/main/stable/general/welcome) documentation to help you when making new commands/features.
+
 ## Coding Standards
 
 - When making commands for the application, please adhere to the coding style from the previous commands.
